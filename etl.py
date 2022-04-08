@@ -1,2 +1,3 @@
 class Etl:
-    pass
+    def init(self,name):
+        self.name=name
